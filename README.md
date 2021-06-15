@@ -17,3 +17,4 @@ NOTE : You can also covert the .py script to executable mode and run the scanner
 
 ## Developer
 * **Jeet Patel**
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/i-am-dope/)

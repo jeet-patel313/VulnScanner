@@ -1,5 +1,5 @@
 # VulnScanner
-VulnScanner is a vulnerability scanner developed using python programming language.
+VulnScanner is a vulnerability scanner developed using python programming language. It compares the output with the vulnbanner.txt provided and displays the vulnerable banner.
 
 ## Prerequisites
 ~ You need to have python installed inside your machine in order to run this scanner.

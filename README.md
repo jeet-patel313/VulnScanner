@@ -13,7 +13,7 @@ git clone https://github.com/jeet-patel313/VulnScanner.git
 cd VulnScanner
 ```
 NOTE : You can also covert the .py script to executable mode and run the scanner.
-![How to use]()
+![How to use](https://github.com/jeet-patel313/VulnScanner/blob/master/ss.png)
 
 ## Developer
 * **Jeet Patel**

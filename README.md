@@ -12,6 +12,7 @@ git clone https://github.com/jeet-patel313/VulnScanner.git
 ```
 cd VulnScanner
 ```
+You need to provide the path for your vulnbanner.txt which should contain vulnerable banners.
 NOTE : You can also covert the .py script to executable mode and run the scanner.
 ![How to use](https://github.com/jeet-patel313/VulnScanner/blob/master/ss.png)
 
